@@ -1,9 +1,9 @@
-# cleanSpace - module pour Node.js
+# cleanSpace - middleware pour Node.js
 cleanSpace, permet de retirer les espaces avant ou après un mot ou une phrase
 
 
 ## installation
-Placer le fichier cleanSpace.js dans le dossier modules
+Placer le fichier cleanSpace.js dans le dossier middlewares
 
 
 ## utilisation
